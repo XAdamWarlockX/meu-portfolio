@@ -1,11 +1,11 @@
 .header {
     padding: 30px 15px;
-    background-color: var(--cor-fundo-cinza-escuro);
+    background-color: var(--cor-fundo-escuro);
 }
 
 .header .logo {
     font-family: var(--fonte-primaria);
-    font-size: var(--fonte-extra-grande);
+    font-size: var(--fonte-grande);
     color: var(--cor-branca);
     border: 2px solid var(--cor-branca);
     border-radius: 50%;
@@ -18,8 +18,9 @@
 }
 
 .header a:hover .logo {
-    color: var(--cor-hover);
-    border: 2px solid var(--cor-hover);
+    background-color: var(--cor-hover);
+    color: var(--cor-branca);
+    border: 2px solid var(--cor-branca);
 }
 
 .header nav ul {

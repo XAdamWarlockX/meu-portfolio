@@ -11,7 +11,7 @@
 }
 
 .sobre-mim .imagem-sobre-mim img {
-    border: 10px solid var;
+    border: 3px solid var(--cor-fundo-escuro);
     border-radius: 5px;
 }
 
