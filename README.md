@@ -16,7 +16,7 @@ Veja uma pequena prévia do meu portfólio.
 
 <img src="src/imagens/previa.png">
 
-Para ver mais detalhes acesse o github pages do portfólio <a src="">clicando aqui</a>.
+Para ver mais detalhes acesse o github pages do portfólio <a src="https://xadamwarlockx.github.io/meu-portfolio/">clicando aqui</a>.
 
 ## Passo a passo para clonar o projeto
 
