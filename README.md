@@ -14,7 +14,7 @@ Nele você podera ver minhas redes sociais, informações sobre mim, minhas habi
 
 Veja uma pequena prévia do meu portfólio.
 
-<img src="src/imagens/previa.png">
+<img src="src/images/previa.png">
 
 Para ver mais detalhes acesse o github pages ou clone o repositório.
 
